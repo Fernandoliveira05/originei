@@ -4,10 +4,11 @@ export const COLORS = {
     secondary: '#333333',  // Cor cinza escura para textos
     white: '#FFFFFF',
     black: '#000000',
-    background: '#F8F8F8',
+    background: '##FFFFFF',
     header: 'transparent', 
     box: '#32393F',
     darkGray: '#333',
+    head: '#32393F'
   };
   
   export const FONTS = {
